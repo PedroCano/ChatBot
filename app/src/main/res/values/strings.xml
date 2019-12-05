@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatBotPsp</string>
+    <string name="message">Write Message</string>
+    <string name="tituloBot">Bot:</string>
+    <string name="tituloPersona">Yo:</string>
+
+    <string name="mensaje">Mensaje</string>
+    <string name="mensaje_decir">Decir</string>
+    <string name="dime_algo">Dime algo</string>
+    <string name="hablar">Hablar</string>
+    <string name="bot">Bot:</string>
+</resources>
